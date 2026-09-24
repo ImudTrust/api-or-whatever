@@ -6,15 +6,12 @@ export default function handler(req, res) {
     "motd": "Hi.",
     "discord-invite": "",
     "admins": [
-      { "name": "imudtrust", "user-id": "91E7B6874B6C884D" },
-      { "name": "midnight", "user-id": "43BC36B6B595E7E4" }
+      { "name": "test", "user-id": "test" },
+      { "name": "test2", "user-id": "urid" }
     ],
     "super-admins": [
       "imudtrust",
       "midnight"
-    ],
-    "blacklisted-ids": [
-      "B00C644BE8902563"
     ]
   });
 }
